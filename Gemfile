@@ -13,10 +13,13 @@ gem "sqlite3"
 gem "uglifier", ">= 1.3.0"
 
 gem "coffee-rails", "~> 4.2"
+gem "config"
+gem "devise"
+gem "devise-i18n"
 gem "jbuilder", "~> 2.5"
+gem "sidekiq"
 gem "simplecov", require: false, group: :test
 gem "turbolinks", "~> 5"
-gem "config"
 # gem 'redis', '~> 4.0'
 # gem 'bcrypt', '~> 3.1.7'
 
