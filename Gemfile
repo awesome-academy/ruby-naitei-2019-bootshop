@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 gem "font-awesome-rails"
-gem "puma", "~> 3.7"
+gem "puma", "~> 3.12"
 gem "rails", "~> 5.1.7"
 gem "rails_admin", "~> 2.0.0.rc"
 gem "rubocop", "~> 0.54.0", require: false
